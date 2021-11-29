@@ -416,7 +416,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfoInputs.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.AssemblyInfo.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.csproj.CoreCompileInputs.cache
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\ServiceHost.RazorAssemblyInfo.cs
@@ -458,3 +457,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Create.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Edit.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Slides\Index.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\01_LampshadeQuery.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs

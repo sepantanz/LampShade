@@ -1,0 +1,15 @@
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contracts.deps.json
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.csproj.AssemblyReference.cache
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.AssemblyInfoInputs.cache
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.AssemblyInfo.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.csproj.CopyComplete
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.pdb

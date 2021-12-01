@@ -13,5 +13,6 @@ namespace InventoryManagement.Domain.InventoryAgg
         EditInventory GetDetails(long id);
         Inventory GetById(long productId);
         List<InventoryViewModel> Search(InventorySearchModel searchModel);
+        List<InventoryOperationViewModel> GetOperationLog(long inventoryId);
     }
 }

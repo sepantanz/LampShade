@@ -1,11 +1,7 @@
 ﻿using _0_Framework.Application;
 using InventoryManagement.Application.Contracts.Inventory;
 using InventoryManagement.Domain.InventoryAgg;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace InventoryManagement.Application
 {
@@ -67,7 +63,7 @@ namespace InventoryManagement.Application
             if (inventory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            if (_inventoryRepository.Exists(x => x.ProductId == command.ProductId && x.Id == command.Id))
+            if (_inventoryRepository.Exists(x => x.ProductId == command.ProductId && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             inventory.Edit(command.ProductId, command.UnitPrice);
@@ -80,6 +76,11 @@ namespace InventoryManagement.Application
         public EditInventory GetDetails(long id)
         {
             return _inventoryRepository.GetDetails(id);
+        }
+
+        public List<InventoryOperationViewModel> GetOperationLog(long inventoryId)
+        {
+            return _inventoryRepository.GetOperationLog(inventoryId);
         }
 
         public OperationResult Increase(IncreaseInventory command)
@@ -99,7 +100,7 @@ namespace InventoryManagement.Application
 
         public List<InventoryViewModel> Search(InventorySearchModel searchModel)
         {
-           return _inventoryRepository.Search(searchModel);
+            return _inventoryRepository.Search(searchModel);
         }
     }
 }

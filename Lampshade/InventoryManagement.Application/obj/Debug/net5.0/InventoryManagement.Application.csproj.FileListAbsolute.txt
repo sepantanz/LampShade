@@ -17,3 +17,5 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Appl
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\0_Framework.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application\obj\Debug\net5.0\InventoryManagement.Application.csproj.CopyComplete
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

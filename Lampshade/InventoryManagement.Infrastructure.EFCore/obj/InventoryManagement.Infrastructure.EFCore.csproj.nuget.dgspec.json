@@ -96,6 +96,9 @@
             "projectReferences": {
               "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\0_Framework\\0_Framework.csproj"
+              },
+              "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }

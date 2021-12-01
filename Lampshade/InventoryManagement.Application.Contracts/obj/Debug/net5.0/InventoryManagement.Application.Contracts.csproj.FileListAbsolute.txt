@@ -13,3 +13,5 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Appl
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\ref\InventoryManagement.Application.Contracts.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\obj\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

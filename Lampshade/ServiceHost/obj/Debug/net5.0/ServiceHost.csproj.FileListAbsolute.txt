@@ -488,3 +488,9 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\InventoryManagement.Application.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Edit.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Decrease.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create - Copy.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs

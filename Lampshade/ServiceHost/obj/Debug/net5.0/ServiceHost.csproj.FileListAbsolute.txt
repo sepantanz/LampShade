@@ -498,3 +498,5 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs

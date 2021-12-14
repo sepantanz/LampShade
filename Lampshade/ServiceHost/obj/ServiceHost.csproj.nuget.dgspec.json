@@ -31,6 +31,12 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\DiscountManagement.Infrastructure.EFCore\\DiscountManagement.Infrastructure.EFCore.csproj"
+              },
+              "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\InventoryManagement.Infrastructure.EFCore\\InventoryManagement.Infrastructure.EFCore.csproj"
+              },
               "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
                 "projectPath": "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }

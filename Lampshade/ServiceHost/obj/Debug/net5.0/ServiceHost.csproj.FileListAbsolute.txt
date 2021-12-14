@@ -492,5 +492,9 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Index.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Decrease.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Increase.cshtml.g.cs
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create - Copy.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\OperationLog.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategoryWithProducts\Default.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Inventory\Create.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\LatestArrivals\Default.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\ProductCategory.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs

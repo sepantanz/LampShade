@@ -19,3 +19,15 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\obj\De
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\ref\01_LampshadeQuery.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\obj\Debug\net5.0\01_LampshadeQuery.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\InventoryManagement.Domain.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Infrastructure.EFCore.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Application.Contracts.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\01_LampshadeQuery\bin\Debug\net5.0\DiscountManagement.Domain.pdb

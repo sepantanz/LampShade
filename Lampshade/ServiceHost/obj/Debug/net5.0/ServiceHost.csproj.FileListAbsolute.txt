@@ -42,7 +42,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
@@ -124,7 +123,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -182,7 +180,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.IO.Pipes.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\refs\System.Linq.dll
@@ -500,3 +497,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Menu\Default.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Footer\Default.cshtml.g.cs
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Search.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\System.IO.Pipelines.dll

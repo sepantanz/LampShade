@@ -500,3 +500,5 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\ne
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\bin\Debug\net5.0\System.IO.Pipelines.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Product.cshtml.g.cs
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shop\Comments\Index.cshtml.g.cs

@@ -1,6 +1,5 @@
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.deps.json
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\ref\DiscountManagement.Application.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contracts.dll
@@ -17,5 +16,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Appli
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.CoreCompileInputs.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.CopyComplete
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\refint\DiscountManagement.Application.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll

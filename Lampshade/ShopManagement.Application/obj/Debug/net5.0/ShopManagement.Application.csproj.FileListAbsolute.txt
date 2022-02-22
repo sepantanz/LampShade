@@ -1,6 +1,5 @@
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ref\ShopManagement.Application.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
@@ -15,5 +14,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Applicati
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll

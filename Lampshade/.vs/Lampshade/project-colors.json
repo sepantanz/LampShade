@@ -95,7 +95,32 @@
       "ProjectGuid": "ec05a144-bace-432a-bd8f-db687af5a7b8",
       "DisplayName": "InventoryManagement.Infrastructure.Configuration",
       "ColorIndex": 1
+    },
+    "6162bdfb-b6ad-4594-8d0d-f7190b78112c": {
+      "ProjectGuid": "6162bdfb-b6ad-4594-8d0d-f7190b78112c",
+      "DisplayName": "BlogManagement.Domain",
+      "ColorIndex": 2
+    },
+    "8b1dfd5e-a2d8-4760-b2b5-69d671950ec8": {
+      "ProjectGuid": "8b1dfd5e-a2d8-4760-b2b5-69d671950ec8",
+      "DisplayName": "BlogManagement.Application",
+      "ColorIndex": 3
+    },
+    "b7973ad0-d459-4703-ab6e-d4deca823285": {
+      "ProjectGuid": "b7973ad0-d459-4703-ab6e-d4deca823285",
+      "DisplayName": "BlogManagement.Application.Contracts",
+      "ColorIndex": 4
+    },
+    "258109e8-5205-43b9-b95c-925c5841176e": {
+      "ProjectGuid": "258109e8-5205-43b9-b95c-925c5841176e",
+      "DisplayName": "BlogManagement.Infrastructure.EFCore",
+      "ColorIndex": 5
+    },
+    "95abab97-053a-40a7-b2d2-49069b840650": {
+      "ProjectGuid": "95abab97-053a-40a7-b2d2-49069b840650",
+      "DisplayName": "BlogManagement.Infrastructure.Configuration",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 7
 }

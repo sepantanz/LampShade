@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "b1CyEmQToLXCw08cLszs77IPTWnh2CKXVFFCbXQ6gUn9Zw5gb+S+dFzCB2cbtz3VqIjitsyH6dBqxrK8DdOhmA==",
+  "dgSpecHash": "3baELbJXp2e538XZLZ6KH3v7WHWM0aKU8ItX+6BQ5Fvu+p54LY16CQaUIw3dUZdbKuvke8fvBS5GmjqdV4XYxw==",
   "success": true,
   "projectFilePath": "E:\\Tutorials\\DotNet\\Projects\\Atriya\\Lampshade\\Lampshade\\DiscountManagement.Application.Contracts\\DiscountManagement.Application.Contracts.csproj",
   "expectedPackageFiles": [

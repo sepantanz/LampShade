@@ -1,15 +1,16 @@
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.deps.json
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\ref\InventoryManagement.Infrastructure.Configuration.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\0_Framework.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\ShopManagement.Domain.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.Contracts.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Domain.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Infrastructure.EFCore.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\0_Framework.pdb
@@ -23,7 +24,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infr
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.csproj.CoreCompileInputs.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.csproj.CopyComplete
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.Configuration.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\refint\InventoryManagement.Infrastructure.Configuration.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\InventoryManagement.Infrastructure.Configuration.pdb
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\bin\Debug\net5.0\InventoryManagement.Application.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\InventoryManagement.Infrastructure.Configuration\obj\Debug\net5.0\ref\InventoryManagement.Infrastructure.Configuration.dll

@@ -2,7 +2,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastru
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
@@ -17,6 +16,7 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastru
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CopyComplete
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\ShopManagement.Infrastructure.EFCore.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll

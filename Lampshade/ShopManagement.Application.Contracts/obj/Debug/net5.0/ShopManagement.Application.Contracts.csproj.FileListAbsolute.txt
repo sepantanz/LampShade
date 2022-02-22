@@ -1,6 +1,5 @@
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
@@ -11,5 +10,6 @@ E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Applicati
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CopyComplete
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
-E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\refint\ShopManagement.Application.Contracts.dll
 E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+E:\Tutorials\DotNet\Projects\Atriya\Lampshade\Lampshade\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
